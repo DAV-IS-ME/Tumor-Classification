@@ -1,4 +1,4 @@
-# Tissue Classification
+# Tumor Classification
 A deep learning project for classifying 9 types of human tissue from H&E‑stained microscopy images. Using a dataset of 32,000 images (28×28×3), we compare Random Forest, MLP, and CNN models to identify the most effective approach for medical image classification.
 
 ## Project Overview
